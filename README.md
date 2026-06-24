@@ -1,5 +1,3 @@
-# Bookmarks
-
 - [忆痕·发布页](https://www.937788.xyz/)
 - [欢迎支持忆痕，感恩有你！ | 赞助页](https://zanzhu.937788.xyz/)
 - [网络名片 | Hello~I'm YiHen](https://card.937788.xyz/)
