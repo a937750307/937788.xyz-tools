@@ -70,3 +70,4 @@
 - [流量消耗器](https://llxhq.937788.xyz/)
 - [隐秘阅读器](https://yinmiread.937788.xyz/)
 - [批量模板覆盖工具](https://imgoverlay.937788.xyz/)
+- [文字转多列表格](https://txt2excel.937788.xyz/)
