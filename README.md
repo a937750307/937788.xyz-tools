@@ -66,7 +66,6 @@
 - [TXT to EPUB - 在线电子书转换器](https://txt2epub.937788.xyz/)
 - [智能工作便签](https://smartnote.937788.xyz/)
 - [每日新闻](https://60snews.937788.xyz/)
-- [每日新闻-推送通知服务](https://tuisong.937788.xyz/)
 - [流量消耗器](https://llxhq.937788.xyz/)
 - [隐秘阅读器](https://yinmiread.937788.xyz/)
 - [批量模板覆盖工具](https://imgoverlay.937788.xyz/)
